@@ -1,5 +1,3 @@
-Mi perfil
-
 ¡Hola, bienvenidos a mi perfil de GitHub! 👋
 
 👩‍💻 Soy Alessandra Balconi, una estudiante de último año de economía apasionada por la programación y la ciencia de datos. Me especializo en Machine Learning y Data Analytics, y me encanta explorar cómo los datos pueden generar información valiosa para la toma de decisiones.
